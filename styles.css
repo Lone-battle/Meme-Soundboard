@@ -1,0 +1,14 @@
+body {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
